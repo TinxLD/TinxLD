@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TinxLD
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on Nothing tho
