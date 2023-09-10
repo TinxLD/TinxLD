@@ -16,13 +16,8 @@
   <img src="https://img.shields.io/badge/Java-Development-orange" alt="Java">
   <img src="https://img.shields.io/badge/Software%20Engineering-informational" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Game%20Design-creative-success" alt="Game Design">
-  <img src="https://img.shields.io/badge/Problem%20Solving-critical-red" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Algorithm%20Optimization-important" alt="Algorithm Optimization">
+  <img src="https://img.shields.io/badge/Documentation%20Pro-%F0%9F%93%84-green">
   <img src="https://img.shields.io/badge/Collaborative%20Development-blue" alt="Collaborative Development">
-  <img src="https://img.shields.io/badge/3D%20Modeling-%F0%9F%8E%A8-ff69b4" alt="3D Modeling">
-  <img src="https://img.shields.io/badge/VR%20Development-%F0%9F%94%AE-9cf" alt="VR Development">
-  <img src="https://img.shields.io/badge/Agile%20Methodologies-%E2%9A%99%EF%B8%8F-lightgray" alt="Agile Methodologies">
-  <img src="https://img.shields.io/badge/UI/UX%20Design-%F0%9F%8E%A8-9cf" alt="UI/UX Design">
 </p>
 
 <!-- Projects -->
