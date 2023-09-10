@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Software%20Engineering-informational" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Game%20Design-creative-success" alt="Game Design">
   <img src="https://img.shields.io/badge/Documentation%20Pro-%F0%9F%93%84-green">
-  <img src="https://img.shields.io/badge/Collaborative%20Development-blue" alt="Collaborative Development">
 </p>
 
 <!-- Projects -->
