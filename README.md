@@ -29,4 +29,4 @@
 <p align="center">Feel free to reach out for collaborations or discussions. Let's build something amazing together! 🤝</p>
 
 <!-- GitHub Profile Link -->
-<p align="center"><a href="https://github.com/LouisD">Visit My GitHub Profile</a></p>
+<p align="center"><a href="https://github.com/TinxLD">Visit My GitHub Profile</a></p>
