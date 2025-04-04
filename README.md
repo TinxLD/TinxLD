@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Unity-Game%20Development-blueviolet" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-Programming-brightgreen" alt="C#">
   <img src="https://img.shields.io/badge/Java-Development-orange" alt="Java">
-  <img src="https://img.shields.io/badge/Software%20Engineering-informational" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Game%20Design-creative-success" alt="Game Design">
 </p>
 
