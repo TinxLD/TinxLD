@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Java-Development-orange" alt="Java">
   <img src="https://img.shields.io/badge/Software%20Engineering-informational" alt="Software Engineering">
   <img src="https://img.shields.io/badge/Game%20Design-creative-success" alt="Game Design">
-  <img src="https://img.shields.io/badge/Documentation%20Pro-%F0%9F%93%84-green">
 </p>
 
 <!-- Projects -->
@@ -24,7 +23,6 @@
 <ul>
   <li><a href="https://github.com/TinxLD">Private Project </a> - I will show this later :)</li>
   <li><a href="https://github.com/TinxLD">Private Project </a> - Same here.</li>
-  <li><a href="https://github.com/TinxLD/Aquamarine">Aquamarine</a> - A fork of the Minecraft Server Software Purpur.</li>
 </ul>
 
 <!-- Contact Me -->
