@@ -1,5 +1,5 @@
 <!-- Title and Header -->
-<h1 align="center">👋 Hey, I'm Louis D</h1>
+<h1 align="center">👋 Hey, I'm Louis</h1>
 <p align="center">Passionate Freetime Game Developer & Software Creator</p>
 
 <!-- About Me -->
