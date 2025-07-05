@@ -48,7 +48,7 @@ I'm passionate about creating engaging software experiences, whether that's craf
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinxLD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinxLD&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
+<!-- [Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinxLD&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true) --!>
 
 </div>
 
@@ -78,7 +78,5 @@ I'm passionate about creating engaging software experiences, whether that's craf
 <div align="center">
 
 *"The best way to predict the future is to create it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=TinxLD&color=58a6ff&style=flat-square)
 
 </div>
