@@ -4,14 +4,14 @@
 
 **Software Developer & Game Creator**
 
-## Building digital experiences across platforms — from immersive games to modern web applications
+Building digital experiences across platforms — from immersive games to modern web applications
 
 </div>
 
 
 ## 🚀 About Me
 
-I'm passionate about creating engaging software experiences, whether that's crafting interactive games in Unity or building responsive web applications with Vue and Nuxt. My work spans from game mechanics and player experiences to user interfaces and web performance optimization.
+I'm passionate about creating interesting software experiences, whether that's crafting interactive games in Unity or building a web applications in Nuxt.
 
 ## 🛠️ Tech Stack
 
@@ -45,11 +45,7 @@ I'm passionate about creating engaging software experiences, whether that's craf
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinxLD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TinxLD&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinxLD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinxLD&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
@@ -79,7 +75,5 @@ I'm passionate about creating engaging software experiences, whether that's craf
 <div align="center">
 
 *"The best way to predict the future is to create it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=TinxLD&color=58a6ff&style=flat-square)
 
 </div>
