@@ -1,32 +1,28 @@
-<!-- Title and Header -->
-<h1 align="center">👋 Hey, I'm Louis</h1>
-<p align="center">Passionate Freetime Game Developer & Software Creator</p>
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm Louis D</h1>
+<p align="center">Building worlds in code – from survival games to smart homes</p>
 
-<!-- About Me -->
-<h2>About Me 🚀</h2>
-<p align="center">Welcome to my GitHub profile! I'm on a journey to create amazing games and some pieces of Software. My heart beats for Unity, C#, and Java, and I'm always ready to tackle new challenges.</p>
-<p align="center">Let's turn ideas into reality together! 🎮💻</p>
+---
+
+<!-- About -->
+### 🧭 About Me
+
+Hi! I'm Louis – a passionate **indie game developer**, **software tinkerer**, and **automation nerd** from Germany.
+
+- 🧱 I love crafting survival games in **Unity** using **C#**
+- 🌍 I build tools, mods & automation for **Minecraft (Java)**
+- 🧠 I create **Vue/Nuxt + TypeScript** apps, often self-hosted on my **NAS**
+- 🏡 I integrate everything smart with **Home Assistant** and **ESP32s**
+
+Whether it's a modular UI for managing documents or a gliding character exploring floating islands – I’m all about **turning ideas into interactive experiences**.
+
+---
 
 <!-- Skills -->
-<!-- Skills -->
-<h2>Skills 🛠️</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-Game%20Development-blueviolet" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-Programming-brightgreen" alt="C#">
-  <img src="https://img.shields.io/badge/Java-Development-orange" alt="Java">
-  <img src="https://img.shields.io/badge/Game%20Design-creative-success" alt="Game Design">
-</p>
+### 🛠️ Tech & Tools
 
-<!-- Projects -->
-<h2>Projects 🚧</h2>
-<ul>
-  <li><a href="https://github.com/TinxLD">Private Project </a> - I will show this later :)</li>
-  <li><a href="https://github.com/TinxLD">Private Project </a> - Same here.</li>
-</ul>
-
-<!-- Contact Me -->
-<h2>Contact Me 📫</h2>
-<p align="center">Feel free to reach out for collaborations or discussions. Let's build something amazing together! 🤝</p>
-
-<!-- GitHub Profile Link -->
-<p align="center"><a href="https://github.com/TinxLD">Visit My GitHub Profile</a></p>
+```ts
+Languages:  C#, TypeScript, Java, PowerShell, Bash
+Game Dev:   Unity, FishNet, ShaderGraph, Blender (basic)
+Web Dev:    Vue 3, Nuxt 3, Tailwind CSS, Node.js, SQLite
+Automation: Home Assistant, ESP32, Docker, Bash Scripts
