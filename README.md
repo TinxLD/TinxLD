@@ -4,7 +4,7 @@
 
 **Software Developer & Game Creator**
 
-> Building digital experiences across platforms — from immersive games to modern web applications
+Building digital experiences across platforms — from immersive games to modern web applications
 
 </div>
 
