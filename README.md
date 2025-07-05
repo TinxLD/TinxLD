@@ -33,8 +33,10 @@ I'm passionate about creating engaging software experiences, whether that's craf
 **Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -44,8 +46,11 @@ I'm passionate about creating engaging software experiences, whether that's craf
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinxLD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TinxLD&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinxLD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinxLD&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
@@ -75,5 +80,7 @@ I'm passionate about creating engaging software experiences, whether that's craf
 <div align="center">
 
 *"The best way to predict the future is to create it."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=TinxLD&color=58a6ff&style=flat-square)
 
 </div>
